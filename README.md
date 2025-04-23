@@ -50,7 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
 </div>
 
-
 ###
 
 <br clear="both">
@@ -61,7 +60,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://open.spotify.com/user/lydyyn4kipjgr7b9xrizbtq55">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=lydyyn4kipjgr7b9xrizbtq55&count=2" alt="Spotify recently played"  />
   </a>
@@ -69,6 +68,7 @@
 
 ###
 
+<br clear="both">
 <div align="left">
   <a href="https://www.linkedin.com/in/alvaro-yujra-laura-17370a23a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
