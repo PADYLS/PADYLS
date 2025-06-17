@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"># 👋 Hola, soy Alvaro<br>Estudiante de Ingeniería de Sistemas 💻  <br>Me gusta crear cosas, romperlas y aprender en el camino.  <br>Fan de las bases de datos, el diseño web y redes.  <br><br>🐺 Amante de los lobos y la tecnología.  <br>🎯 Siempre en modo mejora continua.  <br><br>> Chill pero comprometido.</p>
+<p align="left"># 👋 Hola, soy Alvaro<br>Estudiante de Ingeniería de Sistemas 💻   <br><br>> Chill pero comprometido.</p>
 
 ###
 
